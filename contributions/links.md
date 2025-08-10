@@ -1,0 +1,3 @@
+- PR: https://github.com/jester-sys/Checksy/pull/3
+- Issue #1: (https://github.com/jester-sys/Checksy/issues/2)
+- Issue #2: (https://github.com/jester-sys/Checksy/issues/1)
